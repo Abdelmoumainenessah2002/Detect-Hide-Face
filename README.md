@@ -1,0 +1,1 @@
+Face Detection & Concealment: Using OpenCV, our project efficiently detects and hides faces in images for privacy protection. Join us in building a safer digital world! #OpenCV #Privacy #ComputerVision
